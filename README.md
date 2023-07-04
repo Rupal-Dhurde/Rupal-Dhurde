@@ -5,7 +5,9 @@
 - 🌠I Will be diving into Backend web development & JS libraries.
 - 💞️ I’m looking to collaborate on Frontend Projects & Start-up ideas.
 - 📫 Ask me about myself by writing an e-mail or connecting
-      with me on Linkedin or Twitter @rupaldhurde2004@gmail.com
+      with me on Linkedin
+  @rupaldhurde2004@gmail.com
+  https://www.linkedin.com/in/rupal-dhurde-51aab6261/
 - ⚡ Fun fact: The first computer programmer was a woman named Ada Lovelace, who wrote the world's first algorithm for Charles Babbage's Analytical Engine in the mid-1800s.
 <!---
 Rupal-Dhurde/Rupal-Dhurde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
