@@ -1,7 +1,4 @@
-
-
-
-
+![greetingGIF](https://github.com/Rupal-Dhurde/Rupal-Dhurde/assets/138601399/6c1ed653-fd1b-4c90-a554-f625b3111606)![Uploading greetingGIF.gif…]()
 - 👋 Hi, I’m Rupal Dhurde.
 - 🔭 I’m currently working on Web development projects.
 - 🚀 Starting with #100daysofcode challenge
