@@ -1,3 +1,7 @@
+
+
+![daftpunktocat-guy](https://github.com/Rupal-Dhurde/Rupal-Dhurde/assets/138601399/13de2f58-83e1-48c5-9331-64615e4c9398)
+
 - 👋 Hi, I’m Rupal Dhurde.
 - 🔭 I’m currently working on Web development projects.
 - 🚀 Starting with #100daysofcode challenge
