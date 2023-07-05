@@ -7,8 +7,7 @@
 - 🚀 Starting with #100daysofcode challenge
 - 👀 I’m interested in HTML, CSS, JS, and ML.
 - 🌠I Will be diving into Backend web development & JS libraries.
-- 💞️ I’m looking to collaborate on Frontend Projects & Start-up ideas.   ![daftpunktocat-guy](https://github.com/Rupal-Dhurde/Rupal-Dhurde/assets/138601399/9218cab4-cc2b-49f2-bdfa-816a926e7a6f)
-
+- 💞️ I’m looking to collaborate on Frontend Projects & Start-up ideas.
 - 📫 Ask me about myself by writing an e-mail or connecting
       with me on Linkedin
   @rupaldhurde2004@gmail.com
